@@ -1,0 +1,1 @@
+# Next-Greater-Element-NGE-for-every-element-in-given-Array
